@@ -1,5 +1,5 @@
 <xwss:SecurityConfiguration xmlns:xwss="http://java.sun.com/xml/ns/xwss/config"
                             dumpMessages="true">
     <xwss:Timestamp/>
-    <xwss:UsernameToken digestPassword="false" useNonce="true" id="username-token" name="<id>" password="<password>"/>
+    <xwss:UsernameToken digestPassword="false" useNonce="true" id="username-token" name="id" password="password"/>
 </xwss:SecurityConfiguration>
